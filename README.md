@@ -41,6 +41,8 @@ This version is compiled as a standalone Windows executable, so Python is not re
 4. Click a version to activate its mod folder.
 5. The manager updates `active_version.txt` automatically to track the currently active version.
 
+> Note: Windows SmartScreen may warn about this executable because it is not digitally signed. This is normal for self-made applications. Click "More info" and then "Run anyway" to use the program.
+
 ---
 
 ## Folder Structure
